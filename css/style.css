@@ -118,6 +118,9 @@ nav {
     font-weight: 700;
 }
 
+#map {
+        height: 500px;
+      }
 
 
 /* Since we'll have the "ul li" "float:left"
@@ -1709,7 +1712,7 @@ h3.tittle {
         -moz-transform: perspective(1000px);
         -moz-transform-style: preserve-3d;
         -ms-transform-style: preserve-3d;
-        transition: 1s;
+        transition: 5s;
         transform-style: preserve-3d;
         position: relative;
     }
@@ -1782,14 +1785,4 @@ h3.tittle {
                 height: 120px;
                 border-radius: 50%;
             }
-/* Last Minute Updates */
-#ielogo {
-        float: left;
-        height: 60px;
-        width: 100px;
-}
-
-
-
-
 </style
